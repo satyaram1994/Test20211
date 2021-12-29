@@ -2,3 +2,9 @@
 open
 opened
 closecd
+open
+opened 
+closed
+open 
+open
+Printf
